@@ -1,7 +1,7 @@
 Contributing to Esri Open Source Projects
 =========================================
 
-Esri welcomes contributions to our [open source projects on Github](http://esri.github.io/).
+Esri welcomes contributions to our [open source projects](http://esri.github.io/) on Github.
 
 Issues
 ------
@@ -13,12 +13,15 @@ Contributing
 
 Please refer to each project's style guidelines and guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
- 1. Fork the repo on GitHub
- 2. Commit changes to a branch in your fork
- 3. Pull request "upstream" with your changes
- 4. Merge changes in to "upstream" repo
+ 1. *Fork* the repo on GitHub
+ 2. *Clone* the project to your own machine
+ 3. *Commit* changes to your own branch
+ 4. *Push* your work back up to your fork
+ 5. Submit a *Pull request* so that we can review your changes
 
-NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+NOTE: Be sure to merge the latest from `upstream` before submitting a pull request!
+
+Github's [Guides](https://guides.github.com/) are a great resource if you're new to the process.
 
 Copyright and Licensing
 -----------------------
@@ -53,7 +56,10 @@ limitations under the License.
 
 Please do **not** contribute code you did not write yourself, unless you are certain you have the legal ability to do so. Also ensure all contributed code can be distributed under the Apache License 2.0.
 
+### Code of Conduct
+
+You can find more information about our Code of Conduct [here](CODE.md).
+
 ### Information for Esri employees
 
 More information for Esri employees interested in participating on Github can be found [here](EMPLOYEE.md).
-
