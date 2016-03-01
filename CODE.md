@@ -1,6 +1,6 @@
 ### Esri Code of Conduct
 
-Like the technical community as a whole, Esri's community is incredibly diverse and includes folks from all over the world.  Diversity is one of our huge strengths, but it is fair to acknowledge that it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to Esri staff and others who utilize the online communication channels that we administer.
+Esri is fortunate to include an incredibly diverse community that includes folks from all over the world.  Diversity is one of our huge strengths, but can also contribute to miscommunication. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to Esri staff and others who utilize the online communication channels that we administer.
 
 This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended - a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
